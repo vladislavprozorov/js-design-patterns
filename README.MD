@@ -70,14 +70,7 @@ design-patterns/
 git clone https://github.com/your-username/designPatterns-js.git
 cd design-patterns-js
 ```
-
-2. **Установи зависимости (если используешь npm-модули):**:
-
-```bash
-npm install
-```
-
-3. **Запуск примеров**:
+2. **Запуск примеров**:
 
 Ты можешь запускать каждый пример отдельно, например:
 
