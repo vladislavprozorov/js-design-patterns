@@ -70,6 +70,7 @@ design-patterns/
 git clone https://github.com/your-username/designPatterns-js.git
 cd design-patterns-js
 ```
+
 2. **Запуск примеров**:
 
 Ты можешь запускать каждый пример отдельно, например:
@@ -135,7 +136,7 @@ node structural/Decorator/decorator.js
 
 ## 🤝 Контакты и вклад
 
-Хочешь предложить улучшение или добавить свой пример?  
+Хочешь предложить доработку или добавить свой пример?  
 📌 Форкни проект, создай ветку и сделай Pull Request.  
 📩 Или открой `issue` со своей идеей!
 
